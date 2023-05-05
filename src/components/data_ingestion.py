@@ -5,6 +5,9 @@ from src.exception import CustomException
 from src.logger import logging
 import pandas as pd
 
+import warnings
+warnings.filterwarnings("ignore")
+
 from sklearn.model_selection import train_test_split
 from dataclasses import dataclass
 
