@@ -9,5 +9,5 @@ ipykernel
 catboost
 xgboost
 Flask
-
+streamlit
 #-e .
