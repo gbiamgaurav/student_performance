@@ -12,4 +12,5 @@
 `pip install -r requirements.txt`
 
 
+## Deployed app: [find the app here](http://studperformance-env-1.eba-hj7jm6jt.us-east-1.elasticbeanstalk.com/predictdata)
 
