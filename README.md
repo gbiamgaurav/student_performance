@@ -24,3 +24,21 @@ AWS Steps
 
 Create the repo :- 794696279387.dkr.ecr.us-east-1.amazonaws.com/stud-performance
 
+## Docker setup in EC2
+
+### Optional
+
+sudo apt-get update -y
+
+sudo apt-get upgrade
+
+
+### Required
+
+curl -fsSL https://get.docker.com -o get-docker.sh
+
+sudo sh get-docker.sh
+
+sudo usermod -aG docker ubuntu
+
+newgrp docker
