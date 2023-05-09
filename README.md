@@ -14,7 +14,7 @@
 
 ## Deployed app: [find the app here](http://studperformance-env-1.eba-hj7jm6jt.us-east-1.elasticbeanstalk.com/predictdata)
 
-
+AWS Deployment
 
 AWS Steps
 
@@ -24,6 +24,7 @@ AWS Steps
 
 Create the repo :- 794696279387.dkr.ecr.us-east-1.amazonaws.com/stud-performance
 
+<<<<<<< HEAD
 ## Docker setup in EC2
 
 ### Optional
@@ -42,3 +43,7 @@ sudo sh get-docker.sh
 sudo usermod -aG docker ubuntu
 
 newgrp docker
+=======
+
+
+>>>>>>> 5f87075cf62243b127420f73284a4fc941f5bf71
